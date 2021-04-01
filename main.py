@@ -18,5 +18,5 @@ async def p(ctx):
 
 
 
-client.run('ODI3MDM4NjE1NDk0MTk3MzE5.YGVNuw.7Pompd-gBlg2OF_tfLloM-vUuN0')
+client.run('123')
 
