@@ -18,5 +18,5 @@ async def p(ctx):
 
 
 
-client.run('123')
+client.run('incert client token here')
 
